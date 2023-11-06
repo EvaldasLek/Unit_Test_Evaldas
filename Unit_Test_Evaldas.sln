@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis_17", "Uzduotis_17\Uzduotis_17.csproj", "{3F299404-1D3B-4E2D-8E12-F13E0ADE1D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{6EC9393A-7823-485A-9F57-A4EF6A2D5238}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F299404-1D3B-4E2D-8E12-F13E0ADE1D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F299404-1D3B-4E2D-8E12-F13E0ADE1D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F299404-1D3B-4E2D-8E12-F13E0ADE1D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F299404-1D3B-4E2D-8E12-F13E0ADE1D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC9393A-7823-485A-9F57-A4EF6A2D5238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC9393A-7823-485A-9F57-A4EF6A2D5238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC9393A-7823-485A-9F57-A4EF6A2D5238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC9393A-7823-485A-9F57-A4EF6A2D5238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
